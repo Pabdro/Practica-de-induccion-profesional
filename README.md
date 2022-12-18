@@ -1,4 +1,6 @@
 # proyectoinduccion
+To iniciate the UI
+vue ui
 
 ## Project setup
 ```
